@@ -1,4 +1,4 @@
-![Aviation Australia hangar](https://prod.aviationaustralia.aero/integ/gen/2608e381-b0ec-4eaa-a83c-76b1fd2c8431/0/?attachment.uuid=8b415cf5-6618-4b27-8a01-f0598286c6eb)
+![Aviation Australia hangar](https://prod.aviationaustralia.aero/file/2608e381-b0ec-4eaa-a83c-76b1fd2c8431/1/AviationAustraliaBanner.jpg)
 
 # Aviation Australia
 
